@@ -4,8 +4,9 @@
 
 ### css
 
-> tailwindcss
+> Tailwindcss
+> Material-UI
 
 ### js
 
-> react
+> React
