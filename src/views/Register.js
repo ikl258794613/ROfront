@@ -1,9 +1,11 @@
 import React, { useState } from "react";
+import Nav from "./Nav";
 
 const Register = () => {
   return (
     <>
-      <main className="h-screen flex justify-center items-center bg-gray-100">
+      <Nav />
+      <main className="h-screen flex justify-center items-center bg-gray-100 content-area">
         <div className="relative flex w-full flex-col m-7">
           <div className="bg-blue-500 sm:rounded-md text-white p-5  shadow-xl mt-12">
             <h2 className="justify-content flex items-center text-4xl">
